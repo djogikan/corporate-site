@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+from flask_qrcode import QRcode
 app = Flask(__name__)
 
 @app.route('/')
