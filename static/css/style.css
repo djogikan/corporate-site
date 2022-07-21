@@ -25,8 +25,8 @@
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
-  --light: #FFFFFF;
-  --dark: #1C1C1C;
+  --light: #F8FCFC;
+  --dark: #1F1A38;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -9317,7 +9317,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #1C1C1C !important;
+  color: #1F1A38 !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
